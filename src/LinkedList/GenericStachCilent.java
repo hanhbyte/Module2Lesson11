@@ -36,5 +36,6 @@ public class GenericStachCilent {
         stackOfIntegers();
         System.out.println("\n2. Stack of Strings");
         stackOfIStrings();
+
     }
 }
